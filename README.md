@@ -14,7 +14,7 @@
 - Deployment of the application on web and mobile platforms
 - Developed a custom chatbot capable of providing accurate forecasts
 
-![Chatbot_created](/assets/img/eeg_band_discovery.jpeg)
+![Chatbot_created](/assets/img/chat.jpg)
 
 **Data Scientist @ UIB Bank (_April 2024 - October 2024_)**
 - Automated the extraction of key financial data from digitized balance sheets
