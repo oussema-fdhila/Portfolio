@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Flask, Machine Learning
 
 ## Education
-- DS, Information Technology | ESPRIT, Tunis (_September 2024_)								       		
+- DS, Information Technology Engineering | ESPRIT, Tunis (_September 2024_)								       		
 
 ## Work Experience
 **Data Scientist @ Sentinel Data (_November 2023 - September 2024_)**
