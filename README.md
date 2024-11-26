@@ -35,7 +35,7 @@ Developed a cross-platform solution integrating **Machine Learning**, **Deep Lea
 
 ### Diagnosis of Chronic Kidney Disease
 
-Using documents (such as medical records, reports, or clinical notes) to detect whether a person is ill. This typically involves applying Natural Language Processing (**NLP**) techniques to extract meaningful information from the text and then utilizing **machine learning** models to classify or predict the presence of a disease based on the extracted data.
+Using documents (such as medical records, reports, or clinical notes) to detect whether a person is ill. This typically involves applying Natural Language Processing (**NLP**) techniques to extract meaningful information from the text and then utilizing **Machine Learning** models to classify or predict the presence of a disease based on the extracted data.
 
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
