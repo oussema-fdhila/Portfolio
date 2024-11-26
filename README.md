@@ -7,16 +7,19 @@
 
 ## Work Experience
 **Data Scientist @ Sentinel Data (_November 2023 - September 2024_)**
+
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 - Data collection, analysis, and preparation for forecasting pharmaceutical quantities
 - Deployment of the application on web and mobile platforms
 - Developed a custom chatbot capable of providing accurate forecasts
+
 ![Chatbot_created](/assets/img/eeg_band_discovery.jpeg)
 
 **Data Scientist @ UIB Bank (_April 2024 - October 2024_)**
 - Automated the extraction of key financial data from digitized balance sheets
 - Developed a method to extract specific data from financial statements using image processing techniques and optical character recognition (OCR)
+  
 **Developer @ Pepolls (_June 2023 - September 2023_)**
 - Development of a blog application containing a full blog application (Frontend & Backend)
 
