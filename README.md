@@ -53,10 +53,11 @@ Acquired hands-on experience in implementing Natural Language Processing (**NLP*
 ### NLP Specialization (Coursera)
 
 Completed a comprehensive specialization consisting of four courses:
--NLP with Sequence Models: Mastered **RNN**s, **GRU**s, **LSTM**s, and attention mechanisms.
--NLP with Probabilistic Models: Focused on Hidden Markov Models and probabilistic language models.
--NLP with Classification and Vector Spaces: Studied text classification, embeddings, and sentiment analysis.
--NLP with Attention Models: Explored the Transformer architecture and its applications.
+
+- NLP with Sequence Models: Mastered **RNN**s, **GRU**s, **LSTM**s, and attention mechanisms.
+- NLP with Probabilistic Models: Focused on Hidden Markov Models and probabilistic language models.
+- NLP with Classification and Vector Spaces: Studied text classification, embeddings, and sentiment analysis.
+- NLP with Attention Models: Explored the Transformer architecture and its applications.
 
 ![NLP Specialization](/assets/img/NLP Specialization.jpg)
 
