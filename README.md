@@ -51,6 +51,7 @@ Acquired hands-on experience in implementing Natural Language Processing (**NLP*
 ![NLP Applications](/assets/img/NLP Applications.jpg)
 
 ### NLP Specialization (Coursera)
+- Data collection, analysis, and preparation for forecasting pharmaceutical quantities
 
 Completed a comprehensive specialization consisting of four courses:
 - NLP with Sequence Models: Mastered **RNN**s, **GRU**s, **LSTM**s, and attention mechanisms
