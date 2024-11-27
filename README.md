@@ -37,6 +37,35 @@ Developed a cross-platform solution integrating **Machine Learning**, **Deep Lea
 
 Using documents (such as medical records, reports, or clinical notes) to detect whether a person is ill. This typically involves applying Natural Language Processing (**NLP**) techniques to extract meaningful information from the text and then utilizing **Machine Learning** models to classify or predict the presence of a disease based on the extracted data.
 
+## Certificates
+### Applications of AI for Anomaly Detection (NVIDIA)
+
+Gained expertise in leveraging **AI** techniques to identify anomalies in data, focusing on real-world applications across various industries.
+
+![Applications of AI for Anomaly Detection (NVIDIA)](/assets/img/Applications of AI for Anomaly Detection.jpg)
+
+### NLP Applications (NVIDIA)
+
+Acquired hands-on experience in implementing Natural Language Processing (**NLP**) techniques to solve practical problems, emphasizing cutting-edge **AI** tools.
+
+![NLP Applications](/assets/img/NLP Applications.jpg)
+
+### NLP Specialization (Coursera)
+
+Completed a comprehensive specialization consisting of four courses:
+-NLP with Sequence Models: Mastered **RNN**s, **GRU**s, **LSTM**s, and attention mechanisms.
+-NLP with Probabilistic Models: Focused on Hidden Markov Models and probabilistic language models.
+-NLP with Classification and Vector Spaces: Studied text classification, embeddings, and sentiment analysis.
+-NLP with Attention Models: Explored the Transformer architecture and its applications.
+
+![NLP Specialization](/assets/img/NLP Specialization.jpg)
+
+### Data Privacy Fundamentals (IBM)
+
+Developed foundational knowledge of data privacy principles, regulations, and best practices for ensuring secure and ethical handling of sensitive data.
+
+![Data Privacy Fundamentals](/assets/img/Data Privacy Fundamentals.jpg)
+
 ## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
 2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
