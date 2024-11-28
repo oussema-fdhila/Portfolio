@@ -8,8 +8,6 @@
 ## Work Experience
 **Data Scientist @ Sentinel Data (_November 2023 - September 2024_)**
 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
 - Data collection, analysis, and preparation for forecasting pharmaceutical quantities
 - Deployment of the application on web and mobile platforms
 - Developed a custom chatbot capable of providing accurate forecasts
