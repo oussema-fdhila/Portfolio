@@ -35,6 +35,10 @@ Developed a cross-platform solution integrating **Machine Learning**, **Deep Lea
 
 Using documents (such as medical records, reports, or clinical notes) to detect whether a person is ill. This typically involves applying Natural Language Processing (**NLP**) techniques to extract meaningful information from the text and then utilizing **Machine Learning** models to classify or predict the presence of a disease based on the extracted data.
 
+### Premier League Player Statistics Analysis
+
+Conducted web scraping from various websites to gather detailed statistics on all Premier League players for the current season. The scraped data was compiled into a comprehensive dataframe named epl_df. This dataframe served as the foundation for an in-depth data analysis. I generated insightful visualizations and plots to explore and understand key aspects of the Premier League this season, including player performance, team contributions, and other trends.
+
 ## Certificates
 ### Applications of AI for Anomaly Detection (NVIDIA)
 
