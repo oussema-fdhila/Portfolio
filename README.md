@@ -16,7 +16,7 @@
 ![Chatbot_created](/assets/img/chat.jpg)
 
 **Data Scientist @ UIB Bank (_April 2024 - October 2024_)**
-[View Repository](https://github.com/oussema-fdhila/CKD_Classification_ML)  
+[View Repository](https://github.com/oussema-fdhila/Automated-Financial-Data-Extraction-from-Balance-Sheets)  
 
 - Automated the extraction of key financial data from digitized balance sheets
 - Developed a method to extract specific data from financial statements using image processing techniques and optical character recognition (OCR)
