@@ -32,12 +32,17 @@ Reduced risks by conducting extensive research on relevant literature, extractin
 Developed a cross-platform solution integrating **Machine Learning**, **Deep Learning**, and Natural Language Processing (**NLP**) to create an interactive learning experience for students and educators. This platform leverages advanced technologies, including **Python**, **MongoDB**, and **web scraping**, to deliver a robust and engaging educational tool.
 
 ### Diagnosis of Chronic Kidney Disease
+[View Repository](https://github.com/oussema-fdhila/CKD_Classification_ML)  
 
 Using documents (such as medical records, reports, or clinical notes) to detect whether a person is ill. This typically involves applying Natural Language Processing (**NLP**) techniques to extract meaningful information from the text and then utilizing **Machine Learning** models to classify or predict the presence of a disease based on the extracted data.
 
 ### Premier League Player Statistics Analysis
 
-Conducted web scraping from various websites to gather detailed statistics on all Premier League players for the current season. The scraped data was compiled into a comprehensive dataframe named epl_df. This dataframe served as the foundation for an in-depth data analysis. I generated insightful visualizations and plots to explore and understand key aspects of the Premier League this season, including player performance, team contributions, and other trends.
+Conducted **web scraping** from various websites to gather detailed statistics on all Premier League players for the current season. The scraped data was compiled into a comprehensive dataframe named epl_df. This dataframe served as the foundation for an in-depth **data analysis**. I generated insightful visualizations and plots to explore and understand key aspects of the Premier League this season, including player performance, team contributions, and other trends.
+
+### Shot Map Analysis for UEFA Euro 2024
+
+The Shot Map Analysis for UEFA Euro 2024 project is an interactive tool that visualizes shot data from the tournament. Users can select a player from a dropdown menu to view a detailed shot map showing attempted and scored shots, or they can display all shot attempts and goals for an entire team. Built using Python, the project leverages libraries such as Pandas for data handling, Matplotlib and Seaborn for visualizations, and a GUI library like Tkinter for the interactive interface. This tool provides a **user-friendly** way to analyze player and **team performance**, offering valuable insights into shot patterns and scoring efficiency during the Euro 2024 tournament.
 
 ## Certificates
 ### Applications of AI for Anomaly Detection (NVIDIA)
