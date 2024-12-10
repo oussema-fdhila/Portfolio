@@ -7,6 +7,7 @@
 
 ## Work Experience
 **Data Scientist @ Sentinel Data (_November 2023 - September 2024_)**
+[View Repository](https://github.com/oussema-fdhila/Predictive-Chatbot-for-Real-Time-Pharmaceutical-Demand-Management)  
 
 - Data collection, analysis, and preparation for forecasting pharmaceutical quantities
 - Deployment of the application on web and mobile platforms
@@ -15,6 +16,8 @@
 ![Chatbot_created](/assets/img/chat.jpg)
 
 **Data Scientist @ UIB Bank (_April 2024 - October 2024_)**
+[View Repository](https://github.com/oussema-fdhila/CKD_Classification_ML)  
+
 - Automated the extraction of key financial data from digitized balance sheets
 - Developed a method to extract specific data from financial statements using image processing techniques and optical character recognition (OCR)
   
@@ -37,10 +40,12 @@ Developed a cross-platform solution integrating **Machine Learning**, **Deep Lea
 Using documents (such as medical records, reports, or clinical notes) to detect whether a person is ill. This typically involves applying Natural Language Processing (**NLP**) techniques to extract meaningful information from the text and then utilizing **Machine Learning** models to classify or predict the presence of a disease based on the extracted data.
 
 ### Premier League Player Statistics Analysis
+[View Repository](https://github.com/oussema-fdhila/Premier-League-Player-Statistics-Analysis.git)  
 
 Conducted **web scraping** from various websites to gather detailed statistics on all Premier League players for the current season. The scraped data was compiled into a comprehensive dataframe named epl_df. This dataframe served as the foundation for an in-depth **data analysis**. I generated insightful visualizations and plots to explore and understand key aspects of the Premier League this season, including player performance, team contributions, and other trends.
 
 ### Shot Map Analysis for UEFA Euro 2024
+[View Repository](https://github.com/oussema-fdhila/Euros-2024-Shot-Map.git)  
 
 The Shot Map Analysis for UEFA Euro 2024 project is an interactive tool that visualizes shot data from the tournament. Users can select a player from a dropdown menu to view a detailed shot map showing attempted and scored shots, or they can display all shot attempts and goals for an entire team. Built using Python, the project leverages libraries such as Pandas for data handling, Matplotlib and Seaborn for visualizations, and a GUI library like Tkinter for the interactive interface. This tool provides a **user-friendly** way to analyze player and **team performance**, offering valuable insights into shot patterns and scoring efficiency during the Euro 2024 tournament.
 
